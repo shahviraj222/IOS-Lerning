@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		223A5DFB2D06B6B400F58A94 /* File.rtf in Resources */ = {isa = PBXBuildFile; fileRef = 223A5DFA2D06B6B400F58A94 /* File.rtf */; };
 		AD937BF622C61DBB002E2D88 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD937BF522C61DBB002E2D88 /* AppDelegate.swift */; };
 		AD937BF822C61DBB002E2D88 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD937BF722C61DBB002E2D88 /* SceneDelegate.swift */; };
 		AD937BFA22C61DBB002E2D88 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD937BF922C61DBB002E2D88 /* ViewController.swift */; };
@@ -24,6 +25,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		223A5DFA2D06B6B400F58A94 /* File.rtf */ = {isa = PBXFileReference; lastKnownFileType = text.rtf; name = File.rtf; path = ../File.rtf; sourceTree = SOURCE_ROOT; };
 		AD937BF222C61DBB002E2D88 /* Xylophone.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Xylophone.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		AD937BF522C61DBB002E2D88 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		AD937BF722C61DBB002E2D88 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -77,6 +79,7 @@
 				AD937BF722C61DBB002E2D88 /* SceneDelegate.swift */,
 				AD937BF922C61DBB002E2D88 /* ViewController.swift */,
 				AD937BFB22C61DBB002E2D88 /* Main.storyboard */,
+				223A5DFA2D06B6B400F58A94 /* File.rtf */,
 				AD937BFE22C61DBE002E2D88 /* Assets.xcassets */,
 				ADE587EA22CB5121007F0F9A /* LaunchScreen.storyboard */,
 				AD937C0322C61DBE002E2D88 /* Info.plist */,
@@ -159,6 +162,7 @@
 			files = (
 				ADE587F722CB513D007F0F9A /* F.wav in Resources */,
 				ADE587F422CB513D007F0F9A /* G.wav in Resources */,
+				223A5DFB2D06B6B400F58A94 /* File.rtf in Resources */,
 				AD937BFF22C61DBE002E2D88 /* Assets.xcassets in Resources */,
 				ADE587EB22CB5121007F0F9A /* LaunchScreen.storyboard in Resources */,
 				ADE587E922CB4D36007F0F9A /* README.md in Resources */,
